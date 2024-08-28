@@ -15,7 +15,7 @@ try {
 
     $conn = new PDO($dns, $user_name, $password, $options);
 
-    echo "Database connected!";
+    //echo "Database connected!";
 
     //$conn = null;
 }
